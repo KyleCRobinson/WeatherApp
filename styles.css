@@ -12,7 +12,8 @@ body {
 .container {
     max-width: 400px;
     margin: 0 auto;
-    background-color: #f7f7f7;
+    /*background-color: #f7f7f7;*/
+    background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
     text-align: center;
     margin-top: 105px;
     padding: 20px;
