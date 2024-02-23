@@ -1,5 +1,5 @@
 const apiKey = '5e54e6587749883547fa0f97121a090c';
-const apiUrl = 'https://api.openweathermap.org/data/2.5/weather';
+const apiUrl = 'http://api.openweathermap.org/data/2.5/forecast?id=524901&appid={5e54e6587749883547fa0f97121a090c}';
 
 const locationInput = document.getElementById('locationInput');
 const searchButton = document.getElementById('searchButton');
