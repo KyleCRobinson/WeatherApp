@@ -1,6 +1,5 @@
-body {
+#body {
     font-family: Arial, sans-serif;
-      /* background-color: #f0f0f0; */
     background-color: #ccc;
     background-image: url('weather1.webp');
     background-size: cover;
@@ -11,7 +10,7 @@ body {
     padding: 0; 
   }
 
-.container {
+#container {
     max-width: 400px;
     margin: 0 auto;
     text-align: center;
@@ -22,11 +21,11 @@ body {
     margin-top: 105px;
 }
 
-h1 {
+#h1 {
     font-size: 24px;
 }
 
-input[type="text"] {
+#input[type="text"] {
     width: 100%;
     padding: 10px;
     margin: 10px 0;
@@ -34,7 +33,7 @@ input[type="text"] {
     border-radius: 5px;
 }
 
-button {
+#button {
     background-color: #007BFF;
     color: #fff;
     border: none;
