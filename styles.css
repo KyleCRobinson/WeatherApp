@@ -20,6 +20,7 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Adjust the alpha value here for the box shadow transparency */
     margin-top: 105px;
+    color:#007BFF;
 }
 
 h1 {
