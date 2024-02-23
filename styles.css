@@ -12,15 +12,12 @@ body {
 .container {
     max-width: 400px;
     margin: 0 auto;
-    /*background-color: #f7f7f7;*/
-    background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+    background-color: #f7f7f7;
     text-align: center;
     margin-top: 105px;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    opacity: 0.75;
-
 }
 
 h1 {
