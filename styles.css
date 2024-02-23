@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #ccc;
-    background-image: url('weather1.webp');
+    background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
