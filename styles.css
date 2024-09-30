@@ -6,8 +6,7 @@ body {
     background-repeat: no-repeat;
     height: 100%; /* Set the height to fill the viewport */
     margin: 0; /* Remove default margin */
-    padding: 0; 
-    overflow:hidden;
+    padding: 0;
   }
 
 .container {
